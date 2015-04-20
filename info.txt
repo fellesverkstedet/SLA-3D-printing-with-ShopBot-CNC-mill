@@ -1,0 +1,19 @@
+To get this working you need the following software
+
+Rhino5 for PC (educational lab license available for FabLabs and students)
+Grasshopper (free plugin for Rhino)
+Firefly (free plugin for Grasshopper, lets us read the state of the Ardunio)
+Flounder (free plugin for Grasshoper, lets control and lock the viewport in Rhino from Grasshopper)
+
+You also need an Ardunino microcontroller to read the output pin of the ShopBot control board.
+We bought our resin from Spot-A-Materials, Low visocity - High reactivity for versatile setups
+We used a Acer H5360 projector, it successor H6510BD is reccomended.
+
+Lots of thanks to Tristan Budel for this guide:
+http://www.instructables.com/id/DIY-high-resolution-3D-DLP-printer-3D-printer/
+
+And the founder and users of this community:
+http://www.buildyourownsla.com/forum/
+
+More info about us here:
+www.fellesverkstedet.no
